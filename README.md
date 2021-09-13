@@ -1,2 +1,2 @@
 # golang
-Golang 成长笔记
+Golang 笔记
